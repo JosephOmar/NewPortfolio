@@ -1,0 +1,48 @@
+{
+  "Presentation": {
+    "presentation1": "Hi 👋,",
+    "presentation2": "My name is",
+    "presentation3": "Joseph MT",
+    "presentation4": "I build things for the web"
+  },
+  "Tech": {
+    "title": "My Tech Stack",
+    "description": "Technologies I’ve been working with recently"
+  },
+  "Projects": {
+    "title": "Projects"
+  },
+  "Project1": {
+    "title": "Clothing E-commerce",
+    "description": "A web app for discovering and shopping for Asian-inspired clothing designs, specializing in K-pop and anime fashion. Browse our curated collection of trendy apparel, including exclusive K-pop group merchandise and anime-themed outfits. View detailed product information, add items to your cart, and complete secure purchases."
+  },
+  "Project2": {
+    "title": "Tourism E-commerce",
+    "description": "A web app for exploring and booking travel tours in Peru. Discover a variety of categorized tours, from cultural experiences to adventure excursions. View detailed itineraries, included activities, and pricing information for each tour. Customize your travel experience by filtering tours based on your interests, and easily book your next adventure with just a few clicks."
+  },
+  "Footer": {
+    "title": "Designed and built by"
+  },
+  "Navbar": {
+    "home": "Home",
+    "about": "About Me"
+  },
+  "About": {
+    "title": "About Me",
+    "description": "I’m a passionate web developer and designer with a creative mind and a love for building beautiful, functional websites. I enjoy bringing my ideas to life through coding and design, and I’m always eager to learn and explore new technologies to create amazing online experiences."
+  },
+  "WorkExperience": {
+    "title": "Work Experience",
+    "workstation1": "Junior Web Developer",
+    "date1": "Feb 2024 - Aug 2024",
+    "workstation2": "Real-Time Management Analyst",
+    "date2": "Feb 2023 - Present"
+  },
+  "Education": {
+    "title": "Education",
+    "profession1": "Computer and Information Technology",
+    "date1": "2021 - 2023",
+    "profession2": "Software Engineering",
+    "date2": "2022 - Present"
+  }
+}

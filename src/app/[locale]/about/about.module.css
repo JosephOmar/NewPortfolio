@@ -1,0 +1,58 @@
+.aboutContainer{
+  padding: 5rem 20vw;
+}
+.sectionAbout, .sectionExperience, .sectionEducation{
+  width: 50%;
+  padding: 1rem 0;
+}
+.allExperiences{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/**! CARD EXPERIENCE **/
+.experienceContainer{
+  display: flex;
+  flex-direction: column;
+  gap: .6rem;
+}
+.experiencePosition, .experiencePlace, .experienceInfo{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.experiencePlace{
+  width: 40%;
+}
+.experienceInfo {
+  gap: .5rem;
+  & p {
+    font-size: .8em;
+    color: var(--text-light);
+    display: flex;
+    align-items: baseline;
+    gap: .5rem;
+  }
+}
+.separation {
+  margin-top: .5rem;
+  display: inline-block;
+  width: 100%;
+  height: .05rem;
+  background-color: var(--text-light);
+}
+
+@media (width<800px){
+  .sectionAbout, .sectionExperience, .sectionEducation{
+    width: 100%;
+  }
+  .experiencePlace{
+    gap: 1rem;
+    flex-direction: column;
+    width: 50%;
+  }
+  .experienceInfo{
+    align-items: center;
+  }
+}

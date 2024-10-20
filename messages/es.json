@@ -1,0 +1,48 @@
+{
+  "Presentation": {
+    "presentation1": "Hola 👋,",
+    "presentation2": "Mi nombre es",
+    "presentation3": "Joseph MT",
+    "presentation4": "Y creo cosas para la web"
+  },
+  "Tech": {
+    "title": "Mi conjunto de tecnologías",
+    "description": "Tecnologías con las que he trabajo recientemente"
+  },
+  "Projects": {
+    "title": "Proyectos"
+  },
+  "Project1": {
+    "title": "Comercio electrónico de ropa",
+    "description": "Una aplicación web para descubrir y comprar diseños de ropa con inspiración asiática, especializada en moda K-pop y anime. Navega por nuestra colección curada de prendas a la moda, incluyendo mercancía exclusiva de grupos de K-pop y atuendos con temática de anime. Consulta información detallada de los productos, añade artículos a tu carrito y completa compras seguras."
+  },
+  "Project2": {
+    "title": "Comercio electrónico de turismo",
+    "description": "Una aplicación web para explorar y reservar tours de viaje en Perú. Descubre una variedad de tours categorizados, desde experiencias culturales hasta excursiones de aventura. Consulta itinerarios detallados, actividades incluidas e información sobre precios de cada tour. Personaliza tu experiencia de viaje filtrando los tours según tus intereses y reserva fácilmente tu próxima aventura con solo unos clics."
+  },
+  "Footer": {
+    "title": "Diseñado y construido por"
+  },
+  "Navbar": {
+    "home": "Inicio",
+    "about": "Sobre Mi"
+  },
+  "About": {
+    "title": "Sobre Mi",
+    "description": "Soy un apasionado desarrollador y diseñador web con una mente creativa y un amor por construir sitios web hermosos y funcionales. Disfruto dar vida a mis ideas a través de la programación y el diseño, y siempre estoy ansioso por aprender y explorar nuevas tecnologías para crear experiencias en línea increíbles."
+  },
+  "WorkExperience": {
+    "title": "Experiencia",
+    "workstation1": "Desarrollador Web Junior",
+    "date1": "Feb 2024 - Ago 2024",
+    "workstation2": "Analista Gestor en Tiempo Real",
+    "date2": "Feb 2023 - Presente"
+  },
+  "Education": {
+    "title": "Educación",
+    "profession1": "Computación e Informática",
+    "date1": "2021 - 2023",
+    "profession2": "Ingeniería de Software",
+    "date2": "2022 - Presente"
+  }
+}
